@@ -1,0 +1,7 @@
+ffmpeg-python==0.2.0
+transformers==4.44.2
+datasets==2.21.0
+soundfile==0.12.1
+scipy==1.13.1
+torch==2.4.1
+streamlit==1.39.0
