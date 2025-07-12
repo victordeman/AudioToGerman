@@ -1,0 +1,51 @@
+Run the Application:Command-Line:bash
+
+Command-Line:
+
+python src/main.py --input input/sample.mp3 --output output/german_audio.wav
+
+
+For video:
+
+python src/main.py --input input/sample.mp4 --output output/german_audio.wav --is-video
+
+Streamlit:
+
+streamlit run src/app.py
+Open http://localhost:8501 in your browser, upload a file, and process it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
